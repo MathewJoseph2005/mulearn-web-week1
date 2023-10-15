@@ -1,0 +1,13 @@
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    background-image:linear-gradient(to right, rgb(233, 37, 37),rgb(255, 166, 0),yellow,rgb(8, 150, 8),blue,rgb(108, 7, 180),rgb(245, 91, 245));
+    text-align:center;
+    width: 300px;
+    padding-left: 60px;
+    padding-right: 60px;
+    color:gray;
+}
